@@ -1,5 +1,5 @@
 ## ProverMarketplace Offchain Node
-This repository contains a simple proof of concept offchain actor for use with https://github.com/corddry/provermarketplace
+This repository contains a simple proof of concept offchain actor for use with https://github.com/corddry/provermarketplace, using dummy values and contracts deployed on Sepolia
 
 ### Quickstart
 1. clone & cd into the repo
